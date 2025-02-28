@@ -2,7 +2,7 @@
 
 
 # Mobile Data Reviews
-Airbnb is an online marketplace that connects people who want to rent out their homes with travelers seeking accommodations. 
+This dataset is valuable for understanding the mobile phone market's dynamics, technological advancements, and regional pricing strategies. With appropriate data preprocessing, it can yield insightful analyses for marketers, product developers, and industry researchers.
 
 ## Project Link
 
@@ -11,14 +11,12 @@ Airbnb is an online marketplace that connects people who want to rent out their 
 <img src="https://t4.ftcdn.net/jpg/09/00/65/37/360_F_900653724_MPXCtoE2xAi5ME5BRQrriIIKTv0X9dkV.jpg" width=1000>
 
 ## Overview :
-This dataset contains Airbnb data for over 250,000 listings across 10 major cities worldwide. It includes detailed information about hosts, pricing, locations, room types, and over 5 million historical guest reviews. The dataset provides valuable insights for studying trends in the short-term rental market.
+This dataset provides detailed information about mobile phones released up to the year 2025. It contains 930 entries and 15 columns, capturing key specifications, prices in different countries, and launch years for a variety of mobile models.
 
 ## Dataset :
 The dataset includes the following files:
-- listings.csv
-Contains detailed information about Airbnb properties, including host details, location, pricing, and room types.
-- reviews.csv
-Includes guest reviews for Airbnb properties, covering feedback, review dates, and reviewer details.
+- mobile dataset (2025).csv
+Contains detailed information about company name,model name, RAM,Processor,Battery Capacity.
 - Dataset Source : [Mobile Dataset]( https://www.kaggle.com/datasets/abdulmalik1518/mobiles-dataset-2025/data)
 
 ## Insights :
