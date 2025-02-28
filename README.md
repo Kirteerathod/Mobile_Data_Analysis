@@ -16,7 +16,7 @@ This dataset provides detailed information about mobile phones released up to th
 ## Dataset :
 The dataset includes the following files:
 - mobile dataset (2025).csv
-Contains detailed information about company name,model name, RAM,Processor,Battery Capacity.
+  Contains detailed information about company name,model name, RAM,Processor,Battery Capacity.
 - Dataset Source : [Mobile Dataset]( https://www.kaggle.com/datasets/abdulmalik1518/mobiles-dataset-2025/data)
 
 ## Insights :
